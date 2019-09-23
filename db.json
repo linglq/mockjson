@@ -8,6 +8,11 @@
       "name": "拇指帝国"
     }
   },
+  "canicut": {
+    "status": 200,
+    "message": "",
+    "data": false
+  },
   "todo": {
     "status": 200,
     "message": null,
